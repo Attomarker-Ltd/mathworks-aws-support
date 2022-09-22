@@ -12,7 +12,7 @@
 	url = https://github.com/mathworks-ref-arch/matlab-aws-sns.git
 [submodule "matlab-aws-dynamodb"]
 	path = matlab-aws-dynamodb
-	url = https://github.com/mathworks-ref-arch/matlab-aws-dynamodb.git
+	url = https://github.com/Attomarker-Ltd/matlab-aws-dynamodb
 [submodule "matlab-aws-athena"]
 	path = matlab-aws-athena
 	url = https://github.com/mathworks-ref-arch/matlab-aws-athena.git
